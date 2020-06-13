@@ -121,3 +121,13 @@ class Task {
 //Capitalize constant values SNAKE UPPER CASE
 const HOURS_IN_A_DAY = 24;
 const USER_AGE = 30;
+
+//Avoid one-letter variable naming
+//Use
+const query = () => {}
+//Instead of
+const q = () => {}
+//Use
+const newDate = () => new Date();
+//Instead of
+const d = () => new Date()
