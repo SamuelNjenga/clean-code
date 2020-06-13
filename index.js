@@ -105,3 +105,15 @@ getCoders;
 let car = {}
 isSedan,isSold,isGreen,hasAirbag
 car.isSedan,car.isSold,car.isGreencar.hasAirbag
+
+//Use nouns for class Names
+class Car {
+// ...
+}
+//Use PascalCase for classNames
+
+camelCase
+PascalCase
+class Task {
+    
+}
