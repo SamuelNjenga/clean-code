@@ -131,3 +131,9 @@ const q = () => {}
 const newDate = () => new Date();
 //Instead of
 const d = () => new Date()
+
+//Only use one-lette variable naming in small functions
+
+for(let i = 0;i < 10;i++){
+    // ...
+}
