@@ -115,5 +115,9 @@ class Car {
 camelCase
 PascalCase
 class Task {
-    
+
 }
+
+//Capitalize constant values SNAKE UPPER CASE
+const HOURS_IN_A_DAY = 24;
+const USER_AGE = 30;
