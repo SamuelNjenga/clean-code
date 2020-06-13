@@ -91,7 +91,7 @@ getUser;
 //Function Naming -> Should be a verb 
 //Use consistent verbs per concept
 //Functions will usually create,read,update or delete something
- 
+
 
 //Instead of using the below naming conventions for functions
 returnUsers;
@@ -100,3 +100,8 @@ retrieveUsers;
 getUsers;
 getQuestions;
 getCoders;
+
+//Make booleans that read well in if-else statements
+let car = {}
+isSedan,isSold,isGreen,hasAirbag
+car.isSedan,car.isSold,car.isGreencar.hasAirbag
